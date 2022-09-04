@@ -1,0 +1,41 @@
+
+
+myresume = {
+ name : 'Pushparaj',
+ age : 30,
+ dob  : 'yyyy-mm-dd',
+ origin : 'Asian',
+ Nationality : 'Indian',
+
+ Studies : {
+        10th : 2006,
+        12th : 2008,
+        B.com : 2011,
+    }
+ Bio: {
+    Height : 179,
+    Weight : 80,
+    color  : 'Black',
+    Size : 'Medium',
+ }
+
+ Skills: {
+        [
+            "Reading",
+            "Writing",
+            " Good communication"
+        ]
+    }
+ Hobbies : {
+        [
+            "Fitness",
+            [
+                "Time"6,
+                "to",
+                7
+            ]
+            "Riding",
+            "youtube",
+        ]
+    }
+}
